@@ -14,7 +14,7 @@ A modern, responsive, and animated personal portfolio website acting as a digita
 - **Email:** [skrwaseemakram@gmail.com](mailto:skrwaseemakram@gmail.com)
 - **Phone:** +44 7810 530390
 - **LinkedIn:** [shaik-waseem-akram-12a08b222](https://www.linkedin.com/in/shaik-waseem-akram-12a08b222)
-- **GitHub:** [Replace with your username](https://github.com/YOUR-GITHUB-USERNAME)
+- **GitHub:** [Replace with your username](https://github.com/skrwaseemakram-03))
 
 ---
 
