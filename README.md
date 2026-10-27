@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33999430/README.md)
+[README.md](https://github.com/user-attachments/files/33999810/README.md)
 # Waseem Akram Shaik — Personal Portfolio & Digital CV
 
 A modern, responsive, and animated personal portfolio website acting as a digital version of my CV. Built with semantic HTML5, high-craft CSS3, and vanilla JavaScript, styled in a deep espresso brown, warm cream, and antique gold palette.
@@ -14,7 +14,7 @@ A modern, responsive, and animated personal portfolio website acting as a digita
 - **Email:** [skrwaseemakram@gmail.com](mailto:skrwaseemakram@gmail.com)
 - **Phone:** +44 7810 530390
 - **LinkedIn:** [shaik-waseem-akram-12a08b222](https://www.linkedin.com/in/shaik-waseem-akram-12a08b222)
-- **GitHub:** [skrwaseemakram-03](https://github.com/skrwaseemakram-03)
+- **GitHub:** [skrwaseemakram-03](https://github.com/skrwaseemakram-03) · [Repository](https://github.com/skrwaseemakram-03/Waseem-Akram-portfolio)
 
 ---
 
@@ -79,8 +79,8 @@ A modern, responsive, and animated personal portfolio website acting as a digita
 No build tools, bundlers, or package installations required!
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-GITHUB-USERNAME/portfolio.git
-   cd portfolio
+   git clone https://github.com/skrwaseemakram-03/Waseem-Akram-portfolio.git
+   cd Waseem-Akram-portfolio
    ```
 2. Double-click or open `index.html` in any modern web browser (Chrome, Edge, Firefox, Safari).
 
@@ -88,7 +88,7 @@ No build tools, bundlers, or package installations required!
 1. Push this repository to GitHub.
 2. Go to **Settings** → **Pages** in your GitHub repository.
 3. Under **Branch**, select `main` and root directory `/(root)`.
-4. Click **Save**. Your site will be live at `https://YOUR-GITHUB-USERNAME.github.io/portfolio/` within 1-2 minutes!
+4. Click **Save**. Your site will be live at `https://skrwaseemakram-03.github.io/Waseem-Akram-portfolio/` within 1-2 minutes!
 
 ---
 
